@@ -15,7 +15,7 @@ export function newTest(testID) {
 }
 
 function someNewFunction(name) {
-    return name;
+    return name + 5;
 }
 
 export function newFeature() {
