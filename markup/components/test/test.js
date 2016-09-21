@@ -19,7 +19,7 @@ function someNewFunction(name) {
 }
 
 export function newFeature() {
-    console.log('I am new!');
+    console.log('I am new conflict!');
 }
 
 export function upgrade() {
