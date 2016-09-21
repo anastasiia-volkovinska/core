@@ -5,5 +5,9 @@ export function test(name) {
 }
 
 export function hello(name) {
-    console.log('hello', name);
+    console.log('Privet', name);
+}
+
+export function newTest() {
+    console.log('New test fun!');
 }
