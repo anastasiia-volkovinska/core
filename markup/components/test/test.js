@@ -1,7 +1,13 @@
 export function test(name) {
-    console.log(`I am ${name}!`);
+    if (name.indexOf('a') !== -1) {
+        console.log(`This name: ${name} contains 'a'!`);
+    }
 }
 
 export function hello(name) {
-    console.log('hello', name);
+    console.log('Privet', name);
+}
+
+export function newTest() {
+    console.log('New test fun!');
 }
