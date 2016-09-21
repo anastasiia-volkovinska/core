@@ -17,3 +17,11 @@ export function newTest(testID) {
 function someNewFunction(name) {
     return name;
 }
+
+export function newFeature() {
+    console.log('I am new!');
+}
+
+export function upgrade() {
+    console.log('I am new upgrade!');
+}
