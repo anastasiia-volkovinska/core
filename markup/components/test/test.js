@@ -19,9 +19,13 @@ function someNewFunction(name) {
 }
 
 export function newFeature() {
-    console.log('I am not new anymore!');
+    console.log('I am new conflict!');
 }
 
 export function upgrade() {
     console.log('I am new upgrade!');
+}
+
+function vetka() {
+
 }
