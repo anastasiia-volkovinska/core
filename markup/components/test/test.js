@@ -9,5 +9,9 @@ export function hello(name) {
 }
 
 export function newTest() {
-    console.log('New test fun!');
+    console.log('some changes!');
+}
+
+function someNewFunction(name) {
+    return name;
 }
