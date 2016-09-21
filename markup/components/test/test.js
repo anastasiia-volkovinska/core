@@ -25,3 +25,7 @@ export function newFeature() {
 export function upgrade() {
     console.log('I am new upgrade!');
 }
+
+function vetka() {
+
+}
