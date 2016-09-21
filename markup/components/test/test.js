@@ -11,3 +11,11 @@ export function hello(name) {
 export function newTest() {
     console.log('New log in a new branch!');
 }
+
+export function newFeature() {
+    console.log('I am new!');
+}
+
+export function upgrade() {
+    console.log('I am new upgrade!');
+}
