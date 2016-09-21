@@ -1,3 +1,5 @@
 export function test(name) {
-    console.log(`I am ${name}!`);
+    if (name.indexOf('a') !== -1) {
+        console.log(`This name: ${name} contains 'a'!`);
+    }
 }
