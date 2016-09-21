@@ -1,5 +1,9 @@
 'use strict';
 
-import { test } from 'components/test/test';
+import { test, hello, newTest } from 'components/test/test';
 
-test('Dima');
+// test('Dima');
+
+hello('Nastya');
+
+newTest();
