@@ -8,8 +8,10 @@ export function hello(name) {
     console.log('Privet', name);
 }
 
-export function newTest() {
-    console.log('Changes by Nastya!');
+export function newTest(testID) {
+    if (testID) {
+        console.log('I am tested!');
+    }
 }
 
 function someNewFunction(name) {
