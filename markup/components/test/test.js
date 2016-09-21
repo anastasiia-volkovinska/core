@@ -9,5 +9,5 @@ export function hello(name) {
 }
 
 export function newTest() {
-    console.log('Changes by Nastya!');
+    console.log('New log in a new branch!');
 }
