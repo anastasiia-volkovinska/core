@@ -9,5 +9,5 @@ export function hello(name) {
 }
 
 export function newTest() {
-    console.log('New test fun!');
+    console.log('Changes by Nastya!');
 }
