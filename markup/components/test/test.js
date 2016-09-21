@@ -9,7 +9,7 @@ export function hello(name) {
 }
 
 export function newTest() {
-    console.log('some changes!');
+    console.log('Changes by Nastya!');
 }
 
 function someNewFunction(name) {
