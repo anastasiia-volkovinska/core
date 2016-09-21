@@ -3,3 +3,7 @@ export function test(name) {
         console.log(`This name: ${name} contains 'a'!`);
     }
 }
+
+export function hello(name) {
+    console.log('hello', name);
+}
