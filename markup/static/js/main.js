@@ -1,5 +1,5 @@
 'use strict';
 
-/*
-    This file can be used as entry point for webpack!
- */
+import { test } from 'components/test/test';
+
+test('Dima');
