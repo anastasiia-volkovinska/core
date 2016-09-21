@@ -1,3 +1,3 @@
 function reallyCool(name) {
-    console.log(`You are really cool: ${name} and I am too!`);
+    console.log(`I am too! ${name}`);
 }
